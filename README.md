@@ -14,4 +14,13 @@ Current Package Classes
 
 [3: CStream](https://github.com/CameronCS/csJava/blob/main/csjav/CStream/CStream.java)
 
-All the internal Code is documented
+All the java Code is documented
+
+<hr />
+Who doesn't love C++?
+
+I know I Do. 
+
+If Package is interesting you don't forget to look at
+
+[The C++ Behind some of it](https://github.com/CameronCS/csJava/tree/main/c%2B%2B%20behind%20some%20of%20it)
