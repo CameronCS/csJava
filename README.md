@@ -28,4 +28,8 @@ If Package is interesting you don't forget to look at
 
 C++ Documentation is coming soon
 
+The only reason "C" has the highest representation is because of all the JNI include files.
+
+This is still a Java package
+
 [The C++ Behind some of it](https://github.com/CameronCS/csJava/tree/main/c%2B%2B%20behind%20some%20of%20it)
