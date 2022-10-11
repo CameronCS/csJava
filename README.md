@@ -8,8 +8,8 @@ Enjoy the new package csjav!
 csjav
 Current Package Classes
 
-[1: Array<T>]:../csjav/Array.java
+[1: Array\<T\>](../csjav/Array.java)
 
-[2: Dictionary<Key, Value>]:../csjav/Dictionary.java
+[2: Dictionary\<Key, Value\>](../csjav/Dictionary.java)
 
-[3: CStream]:../csjav/CStream/CStream.java
+[3: CStream](../csjav/CStream/CStream.java)
