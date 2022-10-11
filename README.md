@@ -13,3 +13,5 @@ Current Package Classes
 [2: Dictionary\<Key, Value\>](https://github.com/CameronCS/csJava/blob/main/csjav/Dictionary.java)
 
 [3: CStream](https://github.com/CameronCS/csJava/blob/main/csjav/CStream/CStream.java)
+
+All the internal Code is documented
