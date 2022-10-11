@@ -3,11 +3,11 @@ The csJava repository is a repository for a java library that includes native me
 
 Please report any bugs and issues if there are any!
 
-##All Documentation is in the source!
+<h2>All Documentation is in the source!<h2>
 
 Enjoy the new package csjav!
 
-csjav
+<h3>csjav</h3>
 Current Package Classes
 
 [1: Array\<T\>](https://github.com/CameronCS/csJava/blob/main/csjav/Array.java)
@@ -19,6 +19,7 @@ Current Package Classes
 All the java Code is documented
 
 <hr />
+<h3>C++</h3>
 Who doesn't love C++?
 
 I know I Do. 
