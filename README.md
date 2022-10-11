@@ -10,6 +10,6 @@ Current Package Classes
 
 [1: Array\<T\>](https://github.com/CameronCS/csJava/blob/main/csjav/Array.java)
 
-[2: Dictionary\<Key, Value\>](../csjav/Dictionary.java)
+[2: Dictionary\<Key, Value\>](https://github.com/CameronCS/csJava/blob/main/csjav/Dictionary.java)
 
-[3: CStream](../csjav/CStream/CStream.java)
+[3: CStream](https://github.com/CameronCS/csJava/blob/main/csjav/CStream/CStream.java)
