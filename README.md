@@ -3,6 +3,8 @@ The csJava repository is a repository for a java library that includes native me
 
 Please report any bugs and issues if there are any!
 
+##All Documentation is in the source!
+
 Enjoy the new package csjav!
 
 csjav
@@ -22,5 +24,7 @@ Who doesn't love C++?
 I know I Do. 
 
 If Package is interesting you don't forget to look at
+
+C++ Documentation is coming soon
 
 [The C++ Behind some of it](https://github.com/CameronCS/csJava/tree/main/c%2B%2B%20behind%20some%20of%20it)
