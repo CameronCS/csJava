@@ -24,7 +24,7 @@ Who doesn't love C++?
 
 I know I Do. 
 
-If Package is interesting you don't forget to look at
+If this Package is interesting you don't forget to look at
 
 C++ Documentation is coming soon
 
