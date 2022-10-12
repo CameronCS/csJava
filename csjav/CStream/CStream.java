@@ -16,8 +16,8 @@
  * 
  */
 package csjav.CStream;
-import java.io.IOException;
 
+import java.io.IOException;
 import csjav.Array;
 import csjav.CStream.CStreamExcept.DelayTypeInvalidException;
 import csjav.CStream.CStreamExcept.StaticOnlyClassException;
@@ -57,7 +57,7 @@ public final class CStream {
     }
 
     /**
-     * Private constructor to allow native functions to work
+     * Private constructor to allow native methods to work
      */
     private CStream() {}
 
