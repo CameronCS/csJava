@@ -24,7 +24,7 @@ Who doesn't love C++?
 
 I know I Do. 
 
-If this Package is interesting to you you don't forget to look at 
+If this Package is interesting to you don't forget to look at 
 [The C++ Behind some of it](https://github.com/CameronCS/csJava/tree/main/c%2B%2B%20behind%20some%20of%20it)
 
 
