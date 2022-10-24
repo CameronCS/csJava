@@ -1,5 +1,5 @@
 /** 
- * The new Input/Output Stream Static Library for Java
+ * The new Static Library for Javas Input/Output Stream
  * 
  * 
  * 
