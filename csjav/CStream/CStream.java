@@ -23,7 +23,7 @@ import csjav.CStream.CStreamExcept.DelayTypeInvalidException;
 import csjav.CStream.CStreamExcept.StaticOnlyClassException;
 /**
  * @author Cameron Stocks
- * @category Input/Output -> Console
+ * @category Input/Output -> <STDIN>
  * @since 2022/09/26
  * @see java.io.IOException
  * @see csjav.CStream.CStreamExcept.StaticOnlyClassException
